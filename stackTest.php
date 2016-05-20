@@ -12,5 +12,8 @@ class StackTest extends PHPUnit_Framework_TestCase
 
         $this->assertEquals('foo', array_pop($stack));
         $this->assertEquals(0, count($stack));
+
+        //妈蛋，到底为什么git不能用
+        //asdfsd
     }
 }
