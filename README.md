@@ -20,3 +20,4 @@ $ sudo mv phpunit.phar /usr/local/bin/phpunit
 $ phpunit --version
 ```
 
+#这么方便的功能
